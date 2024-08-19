@@ -1,6 +1,6 @@
 ## Hi, I am Syed Muhammad Maisam 👋
-[LinkedIn](https://www.linkedin.com/in/smmaisam/) | [Email](muhammad.maisam@hotmail.com)
-📍 London, UK
+- [LinkedIn](https://www.linkedin.com/in/smmaisam/) | [Email](muhammad.maisam@hotmail.com)
+- 📍 London, UK
 
 An enthusiastic self-taught Data Scientist and Analyst by day ☼ | Open-Source Contributor and Learner by night ☾  
  
