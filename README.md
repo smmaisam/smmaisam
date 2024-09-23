@@ -10,7 +10,7 @@ An enthusiastic self-taught Data Scientist and Analyst by day ☼ | Open-Source 
 - 👨‍💻 Adept at strategic planning, formulating advanced statistical analysis, building predictive models and forecsating. 
 - 🎯 Driven by a passion for business growth. Committed to solving complex problems and delivering impactful results.
 - 📚 Currently learning AWS and Cloud Computing
-
+  
 ### ⚙️ Tech Stack:
 - MS Excel (Power Pivots, Power Query, DAX)
 - SQL (CTEs, Window Functions)
