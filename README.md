@@ -7,7 +7,7 @@ An enthusiastic self-taught Data Scientist and Analyst by day ☼ | Open-Source 
 
 ### ✨ Summary:  
 - 💼 4+ years of professional experience as Data Analyst at Alibaba Group and Bank Alfalah Limited. 
-- 👨‍💻 Adept at strategic planning, formulating advanced statistical analysis, building predictive models and forecsating. 
+- 👨‍💻 Adept at strategic planning, formulating advanced statistical analysis, building predictive models and forecasting. 
 - 🎯 Driven by a passion for business growth. Committed to solving complex problems and delivering impactful results.
 - 📚 Currently learning AWS and Cloud Computing
   
