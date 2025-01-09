@@ -12,11 +12,12 @@ An enthusiastic self-taught Data Scientist and Analyst by day ☼ | Open-Source 
 - 📚 Currently learning AWS and Cloud Computing
   
 ### ⚙️ Tech Stack:
-- MS Excel (Power Pivots, Power Query, DAX)
-- SQL (CTEs, Window Functions)
-- Programming: Python, and R
-- BI Tools and Visualization: Power BI, Tableau, Matplotlin, Seaborn, GGplot2, Dplyr, Tidyr
-- Data Science: Machine/Deep Learning, Statistical Modeling, Forecasting, Time Series, NLP, A/B Testing, Optimization
+-	Programming & Data Tools: Python, SQL (CTEs, Window Functions), MS Excel (Power Pivot, Power Query, DAX)
+-	Big Data Tools: Hadoop, Apache Spark, PySpark, Databricks (Basic), BigQuery. 
+-	Data Science & Analytics: Statistical Modeling, Machine Learning, Deep Learning, NLP, A/B Testing, Forecasting, Customer Segmentation & Journeys.
+-	Visualization: Power BI, Tableau, Matplotlib, Seaborn.
+-	Cloud & Workflow Automations: AWS (S3, EC2, Glue, Lambda, Athena, Airflow, Kafka, QuickSight).
+-	Version Control: Git, GitHub
 
 ### 💬 Ping Me About:
 - Solving business problems using data.
