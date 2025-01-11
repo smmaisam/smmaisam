@@ -16,7 +16,7 @@ An enthusiastic self-taught Data Scientist and Analyst by day ☼ | Open-Source 
 -	Big Data Tools: Hadoop, Apache Spark, PySpark, Databricks (Basic), BigQuery. 
 -	Data Science & Analytics: Statistical Modeling, Machine Learning, Deep Learning, NLP, A/B Testing, Forecasting, Customer Segmentation & Journeys.
 -	Visualization: Power BI, Tableau, Matplotlib, Seaborn.
--	Cloud & Workflow Automations: AWS (S3, EC2, Glue, Lambda, Athena, Airflow, Kafka, QuickSight).
+-	Cloud & Workflow Automations: AWS (S3, EC2, RDS, Glue, Lambda, Athena, Airflow, Kafka, QuickSight).
 -	Version Control: Git, GitHub
 
 ### 💬 Ping Me About:
