@@ -14,7 +14,7 @@ An enthusiastic self-taught Data Scientist and Analyst by day ☼ | Open-Source 
 ### ⚙️ Tech Stack:
 -	Programming & Data Tools: Python, SQL (CTEs, Window Functions), MS Excel (Power Pivot, Power Query, DAX)
 -	Big Data Tools: Hadoop, Apache Spark, PySpark, Databricks (Basic), BigQuery. 
--	Data Science & Analytics: Statistical Modeling, Machine Learning, Deep Learning, NLP, A/B Testing, Forecasting, Customer Segmentation & Journeys.
+-	Data Science & Analytics: Statistical Modeling, Machine Learning, Deep Learning, NLP, A/B Testing, Forecasting, Customer Segmentation & Journeys, Optimization Modelling.
 -	Visualization: Power BI, Tableau, Matplotlib, Seaborn.
 -	Cloud & Workflow Automations: AWS (S3, EC2, RDS, Glue, Lambda, Athena, Airflow, Kafka, QuickSight).
 -	Version Control: Git, GitHub
